@@ -61,7 +61,7 @@ button:hover{
     transition: background-color .8s ease-in-out;
 }
 .content-pix{
-    background-image: url('images/Circle\ design.svg');
+    background-image: url('../images/Circle\ design.svg');
     background-repeat: no-repeat;
 }
 .logo{
